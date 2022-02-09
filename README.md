@@ -1,5 +1,7 @@
 # Simple Hang Man Console Game
 
+[dictionary.txt](https://raw.githubusercontent.com/rossliam2212/HangMan/master/dictionary.txt) file sourced from [here](https://github.com/dwyl/english-words).
+
 ### Sample Game
 ```
 Please enter your name: 
